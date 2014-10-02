@@ -27,6 +27,8 @@ def calc_freq_distribution(collection_handler):
 
 if __name__ == '__main__':
     print u'阚海波'
+    along = 99999L
+    print along
 #     conn = pymongo.Connection(['192.168.1.1'], 27018)
 #     input_collection= conn.cname.things
 #     print calc_freq_distribution(merge_spam)
